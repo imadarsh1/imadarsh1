@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @imadarsh1
 - 👀 I’m interested in Academia, Cinema and Cricket.
 - 🌱 I’m currently learning AiMl
-- 💞️ I’m looking to collaborate on ...
 - 📫 ping me @adarshmala0@gmail.com
 
 <!---
